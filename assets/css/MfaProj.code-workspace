@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "C:/Users/taish/OneDrive/Рабочий стол/final assign"
+		},
+		{
+			"path": "../../../Gp"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "final assign"
+	}
+}
